@@ -1,4 +1,3 @@
-# Team ID: G5T01
 
 def schedule1(locations, start_location, number_of_trucks, orders):
     """
