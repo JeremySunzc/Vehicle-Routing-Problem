@@ -1,4 +1,3 @@
-# Team ID: G5T01
 
 def schedule2(locations, start_location, capacities, orders):     
     # prepare for retrieval of information: orders, location loads
